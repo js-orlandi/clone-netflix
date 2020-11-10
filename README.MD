@@ -15,9 +15,7 @@ O projeto Netflix clone é educacional e foi desenvolvido como parte do bootcamp
 
 **Imagem do projeto**
 
-
-
-
+![alt text](https://raw.githubusercontent.com/js-orlandi/clone-netflix/master/img/Clone.png)
 
 
 
